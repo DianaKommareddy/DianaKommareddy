@@ -1,7 +1,7 @@
 ## Hi there 👋 Kommareddy Diana Mary Here!!
 I am a student pursuing AI and Data Science with a strong passion for Autonomous Vehicles. My current research focuses on enhancing driver vision by leveraging AV cameras through techniques such as image enhancement and 3D reconstruction.
 - 🔭 I’m currently working on 3D reconsturction using depth images
-- 📫 How to reach me: diana.kommareddy04@gmail.com
+- 📫Feel free to reach out to me via diana.kommareddy04@gmail.com or connect with me on https://www.linkedin.com/in/kommareddy-diana-mary-88108425a/.
  ### 🛠 Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
